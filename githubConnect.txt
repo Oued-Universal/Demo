@@ -1,4 +1,4 @@
-These are steps on how to create and push a git repo to the github repository
+These are steps on how to create and push a git repo to a remote github repository
 
 echo "# Demo" >> README.md
 git init
